@@ -1,2 +1,3 @@
-"LINE 1: changed from earlier input"
+"LINE 1: THIS IS MAIN VERSION"
+
 "LINE 2: unchanged line"
