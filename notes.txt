@@ -1,2 +1,2 @@
-"LINE 1: base version"
+"LINE 1: changed from earlier input"
 "LINE 2: unchanged line"
